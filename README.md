@@ -59,4 +59,4 @@ Built by Marcus Richards, directing AI coding agents.
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Take it, fork it, run your fleet better than we run ours. Then tell us how.
+MIT. Copyright (c) 2026 Marcus Richards. See [LICENSE](LICENSE). Take it, fork it, run your fleet better than we run ours. Then tell us how.
