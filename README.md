@@ -55,6 +55,8 @@ The board is now the operating system. This repo is its public spec.
 - Ops Ledger: WIP caps, collision radar for deadline pile-ups, blocker recurrence tracking
 - Templates: genesis records, review rubrics, decision packets
 
+Built by Marcus Richards, directing AI coding agents.
+
 ## License
 
 MIT — see [LICENSE](LICENSE). Take it, fork it, run your fleet better than we run ours. Then tell us how.
